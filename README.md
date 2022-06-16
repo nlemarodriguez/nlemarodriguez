@@ -27,7 +27,7 @@ I'm a backend developer based in Colombia working in software industry since 201
 
 - [Evil-game](http://evil-game-dev.herokuapp.com/es/)
 
-Evil-game is a fun game, actually the best one for the parties with friends, girl/boy - friends or your crush. It is a turn-based game in which each player will have to do one of the over 250 challenges (and counting) that can be games, dares, truth, penalties, drinking or sexual games. Our best feature is that you can add multiple "affinities" with other people. 
+Evil-game is a fun game, actually the best one for the parties with friends, girl/boy - friends or your crush. It is a turn-based game in which each player will have to do one of the over 250 challenges (and counting) that can be games, dares, truth, penalties, drinking or sexual games. Our best feature is that you can add multiple "affinities" with other people (you can imagine what affinities means...)
 
 </td>
 </tr>
