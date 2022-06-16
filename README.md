@@ -13,11 +13,26 @@ I'm a backend developer based in Colombia working in software industry since 201
 
 
 # :man_technologist: Recent projects
-<img src="https://evil-game.s3.amazonaws.com/static/games/img/avatar-512.png" alt="drawing" width="150"/>
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+<tr>
+<td>
+
+<img src="https://evil-game.s3.amazonaws.com/static/games/img/avatar-512.png" alt="drawing" width="500"/>
+
+
+</td>
+<td>
+
 
 - [Evil-game](http://evil-game-dev.herokuapp.com/es/)
 
 Evil-game is a fun game, actually the best one for the parties with friends, girl/boy - friends or your crush. It is a turn-based game in which each player will have to do one of the over 250 challenges (and counting) that can be games, dares, truth, penalties, drinking or sexual games. Our best feature is that you can add multiple "affinities" with other people. 
+
+</td>
+</tr>
+</table>
+
 
 
 # :chart_with_upwards_trend: Stats about my recent work
